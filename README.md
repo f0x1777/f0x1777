@@ -63,23 +63,22 @@ The builder community for Solana in Argentina. Membership OS, events, dev accele
 
 ## ▸ Activity
 
-<p>
+<p align="center">
   <img src="https://f0x17-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=21600&v=2" alt="GitHub stats" height="170"/>
   <img src="https://f0x17-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=21600&v=2" alt="Top languages" height="170"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=f0x1777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f0x1777/f0x1777/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/f0x1777/f0x1777/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0x1777&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=00d4aa&color=8b949e&point=00f5ff" alt="Contribution activity graph" />
+</p>
 
 ---
 
