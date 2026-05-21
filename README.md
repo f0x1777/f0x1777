@@ -1,8 +1,8 @@
+<h1 align="center">Hey, I'm Nico <sub>AKA</sub> f0x17 🦊</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=80&lines=%24+site+reliability+engineer+%40+triton+one_;%24+co-founder+%40+xipher+labs_;%24+head+%40+SOLxAR+%28solana+argentina%29_;%24+on+solana+since+2021_;%24+based+in+buenos+aires+%F0%9F%87%A6%F0%9F%87%B7_" alt="rotating roles terminal" />
 </p>
-
-<h1 align="center">Hey, I'm Nico — they call me f0x17 🦊</h1>
 
 <p align="center">
   <a href="https://triton.one"><img src="https://img.shields.io/badge/Site_Reliability_Engineer-Triton%20One-00d4aa?style=for-the-badge&labelColor=0a0a0a" alt="SRE at Triton One"/></a>
@@ -115,5 +115,7 @@ If you're into lofi while you ship — this is what's on loop while I do:
 ---
 
 <p align="center">
-  <sub><i>Outside the box, into production. Hakuna matata about the rest.</i></sub>
+  <b>My motto</b> &nbsp;·&nbsp; <i>Hakuna Matata</i> &nbsp;&amp;&nbsp; <i>Think outside the box</i>
+  <br/>
+  <b>My way of life</b> &nbsp;·&nbsp; <i>Make things happen</i>
 </p>
