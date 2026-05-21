@@ -64,8 +64,8 @@ The builder community for Solana in Argentina. Membership OS, events, dev accele
 ## ▸ Activity
 
 <p>
-  <img src="https://f0x17-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="170"/>
-  <img src="https://f0x17-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" height="170"/>
+  <img src="https://f0x17-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=21600&v=2" alt="GitHub stats" height="170"/>
+  <img src="https://f0x17-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=21600&v=2" alt="Top languages" height="170"/>
 </p>
 
 <p>
