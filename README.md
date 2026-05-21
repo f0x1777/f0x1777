@@ -34,6 +34,7 @@ Bespoke engineering labs. We are two. Currently shipping:
 
 - 🤖 [**walter-os**](https://github.com/Xipher-Labs/walter-os) — self-hostable AI-agent operations framework. Opinionated AGENTS.md cascade, hardened MCP profiles, daily supply-chain audit, brand & hackathon pipelines. **Open source.** _The OS I use to build everything else here._
 - 🏛 [**Licitar**](https://licit.ar) — public-procurement SaaS that helps Argentine SMBs participate in public tenders (Comprar.Ar, BAC, provincial systems). Opportunity scoring, compliance alerts, tender-brief generation — cutting the busywork that locks small companies out of contracts they could otherwise win. **Open beta · June 2026.**
+- 🎫 **Membership OS** — permissionless member layer for web3 communities. Token-gated roles, on-chain reputation, contribution scoring — the engine that powers SOLxAR and is built to drop into any DAO or builder collective.
 - 🧬 [**BioVault**](https://biovault.health) — R&D project on sovereign health data infrastructure. Early stage.
 
 ### 🇦🇷 Head of · [SOLxAR](https://solx.ar)
@@ -99,7 +100,7 @@ If you're into lofi while you ship — this is what's on loop while I do:
 
 <p>
   <a href="https://twitter.com/f0x1777"><img src="https://img.shields.io/badge/Twitter-@f0x1777-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:nico@xipherlabs.xyz"><img src="https://img.shields.io/badge/Email-nico@xipherlabs.xyz-d14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:me@f0x17.xyz"><img src="https://img.shields.io/badge/Email-me@f0x17.xyz-d14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nicolasfernandezf/"><img src="https://img.shields.io/badge/LinkedIn-nicolasfernandezf-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://f0x17.xyz"><img src="https://img.shields.io/badge/Site-f0x17.xyz-b14aed?style=flat-square&logo=firefox&logoColor=white" /></a>
 </p>
