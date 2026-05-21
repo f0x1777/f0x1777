@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=80&lines=%24+first+engineer+%40+triton+one_;%24+co-founder+%40+xipher+labs_;%24+head+%40+SOLxAR+%28solana+argentina%29_;%24+on+solana+since+2021_;%24+based+in+buenos+aires+%F0%9F%87%A6%F0%9F%87%B7_" alt="rotating roles terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=80&lines=%24+site+reliability+engineer+%40+triton+one_;%24+co-founder+%40+xipher+labs_;%24+head+%40+SOLxAR+%28solana+argentina%29_;%24+on+solana+since+2021_;%24+based+in+buenos+aires+%F0%9F%87%A6%F0%9F%87%B7_" alt="rotating roles terminal" />
 </p>
 
 <h1 align="center">Hey, I'm Nico — they call me f0x17 🦊</h1>
 
 <p align="center">
-  <a href="https://triton.one"><img src="https://img.shields.io/badge/Triton_One-First%20Engineer-00d4aa?style=for-the-badge&labelColor=0a0a0a" alt="Triton One"/></a>
-  <a href="https://xipherlabs.xyz"><img src="https://img.shields.io/badge/Xipher_Labs-Co--founder-b14aed?style=for-the-badge&labelColor=0a0a0a" alt="Xipher Labs"/></a>
-  <a href="https://solx.ar"><img src="https://img.shields.io/badge/SOLxAR-Head%20of-74acdf?style=for-the-badge&labelColor=003566" alt="SOLxAR"/></a>
+  <a href="https://triton.one"><img src="https://img.shields.io/badge/Site_Reliability_Engineer-Triton%20One-00d4aa?style=for-the-badge&labelColor=0a0a0a" alt="SRE at Triton One"/></a>
+  <a href="https://xipherlabs.xyz"><img src="https://img.shields.io/badge/Co--founder-Xipher%20Labs-b14aed?style=for-the-badge&labelColor=0a0a0a" alt="Co-founder Xipher Labs"/></a>
+  <a href="https://solx.ar"><img src="https://img.shields.io/badge/Head%20of-SOLxAR-74acdf?style=for-the-badge&labelColor=003566" alt="Head of SOLxAR"/></a>
 </p>
 
 I work on the unglamorous side of Solana — **Geyser plugins, Yellowstone gRPC, historical access pipelines** — the hot path that every Solana dApp depends on but nobody tweets about.
@@ -16,9 +16,9 @@ I work on the unglamorous side of Solana — **Geyser plugins, Yellowstone gRPC,
 
 ## ▸ Where I'm building
 
-### 🛰️ [Triton One](https://triton.one) — First Engineer
+### 🛰️ Site Reliability Engineer · [Triton One](https://triton.one)
 
-On Solana since 2021. Streaming layer, Geyser plugins, Old Faithful.
+On Solana since 2021. Joined Triton at the very beginning — when the team was just the founders — as one of the first employees.
 
 Triton is a **core maintainer of Solana's open-source infrastructure**. A few of the projects the team ships:
 
@@ -28,17 +28,15 @@ Triton is a **core maintainer of Solana's open-source infrastructure**. A few of
 | [`solana-rpc-ansible`](https://github.com/rpcpool/solana-rpc-ansible) | ![](https://img.shields.io/github/stars/rpcpool/solana-rpc-ansible?style=flat&label=&color=00d4aa) | The Ansible config most Solana RPC operators start with |
 | [`solana-geyser-park`](https://github.com/rpcpool/solana-geyser-park) | ![](https://img.shields.io/github/stars/rpcpool/solana-geyser-park?style=flat&label=&color=00d4aa) | De-facto registry of Geyser plugins |
 
-My work mostly lives in the streaming layer.
-
-### 🧪 [Xipher Labs](https://xipherlabs.xyz) — Co-founder
+### 🧪 Co-founder · [Xipher Labs](https://xipherlabs.xyz)
 
 Bespoke engineering labs. We are two. Currently shipping:
 
 - 🤖 [**walter-os**](https://github.com/Xipher-Labs/walter-os) — self-hostable AI-agent operations framework. Opinionated AGENTS.md cascade, hardened MCP profiles, daily supply-chain audit, brand & hackathon pipelines. **Open source.** _The OS I use to build everything else here._
 - 🏛 [**Licitar**](https://licit.ar) — public-procurement SaaS that helps Argentine SMBs participate in public tenders (Comprar.Ar, BAC, provincial systems). Opportunity scoring, compliance alerts, tender-brief generation — cutting the busywork that locks small companies out of contracts they could otherwise win. **Open beta · June 2026.**
-- ◎ [**mana**](https://github.com/Xipher-Labs/mana) — social web3 scoring engine.
+- 🧬 [**BioVault**](https://biovault.health) — R&D project on sovereign health data infrastructure. Early stage.
 
-### 🇦🇷 [SOLxAR](https://solx.ar) — Head of
+### 🇦🇷 Head of · [SOLxAR](https://solx.ar)
 
 The builder community for Solana in Argentina. Membership OS, events, dev acceleration. **Aspiring to become Superteam Argentina.**
 
@@ -65,12 +63,11 @@ The builder community for Solana in Argentina. Membership OS, events, dev accele
 ## ▸ Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=f0x1777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 <picture>
