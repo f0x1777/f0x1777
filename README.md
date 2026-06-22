@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nico A.K.A f0x17 </h1>
+<h1 align="center">Hey, I'm Nico <sub>AKA</sub> f0x17 🦊</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=80&lines=%24+site+reliability+engineer+%40+triton+one_;%24+co-founder+%40+xipher+labs_;%24+head+%40+SOLxAR+%28solana+argentina%29_;%24+on+solana+since+2021_;%24+based+in+buenos+aires+%F0%9F%87%A6%F0%9F%87%B7_" alt="rotating roles terminal" />
@@ -73,7 +73,7 @@ The builder community for Solana in Argentina. Membership OS, events, dev accele
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=f0x1777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://f0x17-trophy.vercel.app/?username=f0x1777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=2" alt="GitHub trophies" />
 </p>
 
 <p align="center">
