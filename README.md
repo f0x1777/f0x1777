@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://superteam.ar"><img src="https://img.shields.io/badge/Country%20Lead-Superteam%20Argentina-74acdf?style=for-the-badge&labelColor=003566" alt="Country Lead Superteam Argentina"/></a>
   <a href="https://xipherlabs.xyz"><img src="https://img.shields.io/badge/Co--founder-Xipher%20Labs-b14aed?style=for-the-badge&labelColor=0a0a0a" alt="Co-founder Xipher Labs"/></a>
-  <a href="https://triton.one"><img src="https://img.shields.io/badge/Former_Founding_Engineer-Triton%20One-00d4aa?style=for-the-badge&labelColor=0a0a0a" alt="Former Founding Engineer at Triton One"/></a>
 </p>
 
 I come from the unglamorous side of Solana — **Geyser plugins, Yellowstone gRPC, historical access pipelines** — the hot path every Solana dApp depends on but nobody tweets about. These days I put that same energy into building the Argentine builder ecosystem.
@@ -86,8 +85,8 @@ Triton is a **core maintainer of Solana's open-source infrastructure**. A few of
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117"/>
-    <img src="https://streak-stats.demolab.com/?user=f0x1777&theme=default&hide_border=true&background=ffffff" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://f0x17-streak.vercel.app/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117"/>
+    <img src="https://f0x17-streak.vercel.app/?user=f0x1777&theme=default&hide_border=true&background=ffffff" alt="GitHub streak" />
   </picture>
 </p>
 
