@@ -24,14 +24,18 @@ We accelerate projects end to end: grants and bounties, dev acceleration, events
 
 [superteam.ar](https://superteam.ar) · [@SuperteamAR](https://x.com/SuperteamAR)
 
+> **Building on Solana from Argentina?**
+> Grants · bounties · dev acceleration · hackathons.
+> Start at [superteam.ar](https://superteam.ar) — or DM [@SuperteamAR](https://x.com/SuperteamAR). If you're hiring Argentine Solana devs, same door.
+
 ### 🧪 Co-founder · [Xipher Labs](https://xipherlabs.xyz)
 
-Bespoke engineering labs. We are two. Currently shipping:
+Bespoke engineering labs. Currently shipping:
 
-- 🤖 [**walter-os**](https://github.com/Xipher-Labs/walter-os) — self-hostable AI-agent operations framework. Opinionated AGENTS.md cascade, hardened MCP profiles, daily supply-chain audit, brand & hackathon pipelines. **Open source.** _The OS I use to build everything else here._
 - 🏛 [**Licitar**](https://licit.ar) — public-procurement SaaS that helps Argentine SMBs participate in public tenders (Comprar.Ar, BAC, provincial systems). Opportunity scoring, compliance alerts, tender-brief generation — cutting the busywork that locks small companies out of contracts they could otherwise win. **Open beta · June 2026.**
-- 🎫 **Membership OS** — permissionless member layer for web3 communities. Token-gated roles, on-chain reputation, contribution scoring — the engine that powers Superteam Argentina and is built to drop into any DAO or builder collective.
 - 🧬 [**BioVault**](https://biovault.health) — R&D project on sovereign health data infrastructure. Early stage.
+- 🤖 [**walter-os**](https://github.com/Xipher-Labs/walter-os) — self-hostable AI-agent operations framework. Opinionated AGENTS.md cascade, hardened MCP profiles, daily supply-chain audit, brand & hackathon pipelines. **Open source.** _The OS I use to build everything else here._
+- 🎫 **Membership OS** — permissionless member layer for web3 communities. Token-gated roles, on-chain reputation, contribution scoring — the engine that powers Superteam Argentina and is built to drop into any DAO or builder collective.
 
 ---
 
@@ -70,21 +74,38 @@ Triton is a **core maintainer of Solana's open-source infrastructure**. A few of
 ## ▸ Activity
 
 <p align="center">
-  <img src="https://f0x17-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=21600&v=2" alt="GitHub stats" height="170"/>
-  <img src="https://f0x17-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=21600&v=2" alt="Top languages" height="170"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://f0x17-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=21600&v=2"/>
+    <img src="https://f0x17-stats.vercel.app/api?username=f0x1777&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&cache_seconds=21600&v=2" alt="GitHub stats" height="170"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://f0x17-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=21600&v=2"/>
+    <img src="https://f0x17-stats.vercel.app/api/top-langs/?username=f0x1777&layout=compact&theme=default&hide_border=true&bg_color=ffffff&langs_count=8&cache_seconds=21600&v=2" alt="Top languages" height="170"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=f0x1777&theme=tokyonight&hide_border=true&background=0d1117"/>
+    <img src="https://streak-stats.demolab.com/?user=f0x1777&theme=default&hide_border=true&background=ffffff" alt="GitHub streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://f0x17-trophy.vercel.app/?username=f0x1777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=2" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://f0x17-trophy.vercel.app/?username=f0x1777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=2"/>
+    <img src="https://f0x17-trophy.vercel.app/?username=f0x1777&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=2" alt="GitHub trophies" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0x1777&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=00d4aa&color=8b949e&point=00f5ff" alt="Contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=f0x1777&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=00d4aa&color=8b949e&point=00f5ff"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0x1777&theme=github-light&hide_border=true&bg_color=ffffff&area=true&line=00a37a&color=57606a&point=0969da" alt="Contribution activity graph" />
+  </picture>
 </p>
+
+<sub>Most of what I ship day to day lives in private product repos under <a href="https://github.com/Xipher-Labs">Xipher Labs</a> — the public surface is <a href="https://github.com/Xipher-Labs/walter-os">walter-os</a>.</sub>
 
 ---
 
