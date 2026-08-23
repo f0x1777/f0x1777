@@ -110,10 +110,12 @@ Triton is a **core maintainer of Solana's open-source infrastructure**. A few of
 
 ## ▸ Coding soundtrack
 
-If you're into lofi while you ship — this is what's on loop while I do:
+**Code Focus** — built as a pomodoro timer you don't have to look at.
 
-<a href="https://open.spotify.com/playlist/2uDVS1t0HqMnczrWgA1xcJ">
-  <img src="https://img.shields.io/badge/Spotify-Lofi%20coding%20loop-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify playlist" />
+Each cycle runs **20–30 minutes of instrumental**, then breaks into **~5 minutes with lyrics**. The lyrics *are* the alarm: when words show up, the block is done. Stand up, refill the mate, come back when the instrumental returns.
+
+<a href="https://open.spotify.com/playlist/567eEzKlml393eyLy6npIQ">
+  <img src="https://img.shields.io/badge/Spotify-Code%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Code Focus playlist on Spotify" />
 </a>
 
 ---
